@@ -116,7 +116,13 @@ import java.util.Random;
 // EJERCICIO N°6 //////////////////////////////////////////////////////////////////////////////////////
 public class Condicionales {
     public static void main(String[] args){
-
+        int horasDeSueño;
+        int horasDeEjercicio;
+        int comidasSaludables;
+        horasDeSueño = Integer.parseInt(JOptionPane.showInputDialog("Cuantas horas son generalmente las que usted duerme?"));
+        horasDeEjercicio = Integer.parseInt(JOptionPane.showInputDialog("Cuantas horas al dia realiza ejercicio?"));
+        comidasSaludables = Integer.parseInt(JOptionPane.showInputDialog("Cuantas comidas saludables en el dia?"));
+        
     }
 }
 
