@@ -1,4 +1,3 @@
-import java.util.Scanner;
 //public class BuclesAnidados {
 //    public static void main(String[] args) {
 //        int i;

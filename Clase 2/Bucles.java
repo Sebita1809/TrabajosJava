@@ -1,6 +1,3 @@
-import java.sql.SQLOutput;
-import java.util.Scanner;
-
 //EJERCICIO N°1////////////////////////////////////////////////////////////////////
 //public class Bucles {
 //    public static void main(String[] args){

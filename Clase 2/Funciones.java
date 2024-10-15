@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 //EJERCICIO N°1///////////////////////////////////////////////////////////////////
 //public class Funciones {
 //    public static void main(String[] args){
